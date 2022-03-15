@@ -1,6 +1,6 @@
-### Oii! Sou a Any Buss e estou começando a minha jornada no mundo da tecnologia
+### Oii! Sou a Any Buss e estou começando a minha jornada no mundo da programação
 
-- 🔭 Hoje trabalho com modelagem 3D de action figures e produtos
+- 🔭 Hoje trabalho com modelagem 3D como designer
 - 🌱 Estou estudando HTML, CSS e JS
 - ⚡ Quero começar a trabalhar como front-end e me especializar na área
 
@@ -12,7 +12,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anybuss&layout=compact&langs_count=7&theme=onedark">
 </div>
   
-<div style="display: inline_block&align"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
