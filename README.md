@@ -1,8 +1,8 @@
-### Oii! Sou a Any Buss e estou começando a minha jornada no mundo da programação
+### Hello! My name is Any Buss and I am starting my journey into the programming world
 
-- 🔭 Hoje trabalho com modelagem 3D como designer
-- 🌱 Estou estudando HTML, CSS e JS
-- ⚡ Quero começar a trabalhar como front-end e me especializar na área
+- 🔭 I've been working as a 3D modeling designer
+- 🌱 I've been studying HTML, CSS e JS since March, 2022
+- ⚡ I want to start working as a front-end developer
 
 ##
 
