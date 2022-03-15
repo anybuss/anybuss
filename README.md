@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://anybuss.com" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anybuss&show_icons=true&include_all_commits=true&count_private=true&theme=onedark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anybuss&layout=compact&langs_count=7&theme=onedark">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anybuss&show_icons=true&include_all_commits=true&count_private=true&theme=onedark">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anybuss&layout=compact&langs_count=7&theme=onedark">
 </div>
   
 <div style="display: inline_block&align"><br>
