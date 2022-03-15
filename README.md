@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://anybuss.com" target="_blank">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anybuss&show_icons=true&include_all_commits=true&count_private=true&theme=onedark">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anybuss&layout=compact&langs_count=7&theme=onedark">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anybuss&langs_count=10&layout=compact&theme=onedark">
 </div>
   
 <div style="display: inline_block"><br>
