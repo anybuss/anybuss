@@ -6,6 +6,8 @@
 - 🌱 I've been studying HTML, CSS e JS since March, 2022
 - ⚡ I want to start working as a front-end developer
 
+<a href="https://anybuss.com"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
+
 ##
 
 <div align="center">
@@ -24,7 +26,6 @@
 ##
   
 <div> 
-  <a href="https://anybuss.com"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/anybuss/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "mailto:anykbuss@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
