@@ -6,7 +6,7 @@
 - 🌱 I've been studying HTML, CSS e JS since March, 2022
 - ⚡ I want to start working as a front-end developer
 
-<a href="https://anybuss.com"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
+<a href="https://anybuss.com">anykbuss.com</a>
 
 ##
 
