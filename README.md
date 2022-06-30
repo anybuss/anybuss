@@ -5,7 +5,7 @@
 - 🔭 I've been working as a 3D modeling designer
 - 🌱 I've been studying HTML, CSS e JS since March, 2022
 
-<a href="https://anybuss.com">anykbuss.com</a>
+<a href="https://www.anybuss.com">anykbuss.com</a>
 
 ##
 
