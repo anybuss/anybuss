@@ -4,7 +4,6 @@
 
 - 🔭 I've been working as a 3D modeling designer
 - 🌱 I've been studying HTML, CSS e JS since March, 2022
-- ⚡ I want to start working as a front-end developer
 
 <a href="https://anybuss.com">anykbuss.com</a>
 
