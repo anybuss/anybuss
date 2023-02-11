@@ -1,5 +1,16 @@
 ##
 
+- Frontend developer with experience in JavaScript/TypeScript using Vue.js (Composition API) framework. Using SASS as a preprocessor to CSS components.
+- Always looking for ways to develop accessible applications with HTML5 and UI/UX Design best practices. 
+- Working with agile methodologies, participating in Scrum ceremonies, and using Jira Software to track tasks and Git/GitHub for code versioning on a daily basis. 
+
+- Deepening my knowledge in JS/TS with Vue ecosystem (Vue Router, Vuex/Pinia, etc), unit and E2E testing, software project architecture, accessibility, SEO and web performance optimization.
+
+- Basic knowledge in Elixir functional programming language using the Phoenix Web framework.
+
+
+##
+
 <div style="display: inline_block" align="center">
   <img alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
