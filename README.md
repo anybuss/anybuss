@@ -7,15 +7,6 @@
 - Deepening my knowledge in JS/TS with Vue ecosystem (Vue Router, Vuex/Pinia, etc), unit and E2E testing, software project architecture, accessibility, SEO, and web performance optimization.
 
 - Basic knowledge of Elixir functional programming language using the Phoenix Web framework.
-
-
-##
-
-<div align="center">
-  <a href="https://github.com/anybuss?tab=repositories">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anybuss&langs_count=10&layout=compact&theme=onedark">
-  </a>
-</div>
   
 ##
   
