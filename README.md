@@ -1,12 +1,10 @@
 ##
 
-- Frontend developer with experience in JavaScript/TypeScript using Vue.js (Composition API) framework and SASS as a preprocessor for CSS components.
-- Always looking for ways to develop accessible applications with best practices for HTML5 and UI/UX Design. 
-- Working with agile methodologies, participating in Scrum ceremonies, and using Jira Software to track tasks and Git/GitHub for code versioning on a daily basis. 
+- Software Engineer at SOAP Health with experience in JavaScript/TypeScript using Vue and React frameworks.
+  
+- Always looking for ways to develop accessible applications with best practices for HTML5 and UI/UX Design.
 
-- Deepening my knowledge in JS/TS with Vue ecosystem (Vue Router, Vuex/Pinia, etc), unit and E2E testing, software project architecture, accessibility, SEO, and web performance optimization.
-
-- Basic knowledge of Elixir functional programming language using the Phoenix Web framework.
+- Deepening my knowledge in JS/TS, unit and E2E testing, software project architecture, accessibility, SEO, and web performance optimization.
   
 ##
   
